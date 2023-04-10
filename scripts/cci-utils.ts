@@ -241,3 +241,4 @@ export const getSlowestTestsRunTimes = (testSuites: string[]) => {
     }
   });
 };
+
